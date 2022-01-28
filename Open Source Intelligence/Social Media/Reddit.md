@@ -1,0 +1,2 @@
+- Supports search operators
+- Search Reddit from search engine often works bettet

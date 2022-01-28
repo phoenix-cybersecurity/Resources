@@ -1,0 +1,29 @@
+- Images
+	- exiftool
+- Emails and Breached Data
+	- theHarvester
+	- breach-parse
+	- h8mail
+- Username and Account
+	- whatsmyname
+	- sherlock
+- Phone Numbers
+	- phoneinfoga
+- Social Media
+	- twint 
+- Websites
+	- wappalyzer
+	- whatweb
+	- whois
+	- Subfinder
+	- Assetfinder
+	- httprobe
+	- Amass
+	- sublist3r
+	- GoWitness
+- Frameworks
+	- recon-ng
+	- maltego
+	- snowint
+	- spiderfoot
+	- Hunchly - https://hunch.ly    

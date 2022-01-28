@@ -1,0 +1,15 @@
+- Satellite Images
+	- look for:
+		- areas to pilot drone from
+		- private access roads
+		- security guard stations
+		- unsuspicious parking locations
+		- building entrances
+		- roads to building
+- Street View
+	- look for:
+		- doors
+		- badge readers
+		- smoking areas
+		- gates
+		- crowded areas

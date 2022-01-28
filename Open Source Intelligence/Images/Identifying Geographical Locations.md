@@ -1,0 +1,2 @@
+- GeoGuessr - https://www.geoguessr.com
+- GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/

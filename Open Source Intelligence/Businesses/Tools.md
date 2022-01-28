@@ -1,0 +1,13 @@
+- DuckDuckGo -https://duckduckgo.com/
+	- site:linkedin.com/in "* at Company Name" to find employees and former employees at company
+- LinkedIn - https://linkedin.com/
+	- Contact information often found in about section
+	- Jobs badges often found in posts on employees LinkedIn
+- Indeed - https://indeed.com/
+	- Job postings can often give information about software used by company
+	- Search for jobs works better than looking at jobs page on profile
+- Open Corporates - https://opencorporates.com/
+	- links to filings
+	- company search and information
+	- executive search and information
+- AI HIT - https://www.aihitdata.com/

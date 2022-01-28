@@ -1,0 +1,4 @@
+- EXIF acronym for Exchangable Image File
+	- Some social media websites obscure EXIF data
+	- Can contain location, date and time of photo, phone model, lens size, exposure settings, flash settings, and color encoding
+- Jeffrey's Image Metadata Viewer - http://exif.regex.info/exif.cgi

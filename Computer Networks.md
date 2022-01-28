@@ -1,0 +1,27 @@
+- Objectives
+	- Know the 7 layers of the OSI model and be able to explain what each of them are
+	- Know the 5 layers of the TCP/IP model and be able to explain what each of them are
+	- Know what the TCP, UDP, ICMP, and ARP protocols are
+	- Know what a VLAN is and its uses
+	- Understand what a socket, port, MAC addresss, and IP address are, and what they are used for
+	- Be able to use the Linux and Windows networking utlilities
+	- Know the core physical components of a computer network and their functions
+	- Know common networking protocols and their port numbers
+- Learning Path
+	If you are especially interested in networks, I would recommend going through the entirety of [Professor Messer's CompTIA N10-007 Network+ Course](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/) or reading [Computer Networking: A Top Down Approach](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149). If this topic is of less interest to you, go through the [Networking for Ethical Hackers](https://youtube.com/playlist?list=PLLKT__MCUeiyUKmYaakznsZeU4lZYwt_j) video series and then watch the relevant Professor Messer videos for topics that either confuse or interest you.
+- Resources
+	- Websites
+	- Videos
+		- [Professor Messer's CompTIA N10-007 Network+ Course](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
+		- [Networking for Ethical Hackers](https://youtube.com/playlist?list=PLLKT__MCUeiyUKmYaakznsZeU4lZYwt_j)
+		- [Internetworking](https://app.itpro.tv/course/ccent-updated-2016/internetworking)
+	- [2018 CCENT Course](https://app.itpro.tv/course/ccent-updated-2018/overview-ccent2018)
+	- [Microsoft Networking Fundamentals](https://youtube.com/playlist?list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm)
+	- Books
+		- [Computer Networking: A Top Down Approach](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
+		- [Computer Networks: A Systems Approach](https://smile.amazon.com/Computer-Networks-Approach-Kaufmann-Networking/dp/0128182008)
+	- Courses
+		- Introduction to Computer Networks
+- Notable Certifications
+	- [CompTIA Network+](https://www.comptia.org/certifications/network)
+	- [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)

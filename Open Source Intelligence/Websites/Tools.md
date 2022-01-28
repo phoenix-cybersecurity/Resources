@@ -1,0 +1,34 @@
+# Subdomain Finders
+- Pentest-Tools Subdomain Finder - https://pentest-tools.com/information-gathering/find-subdomains-of-domain#
+- Spyse - https://spyse.com/
+- crt.sh - https://crt.sh/
+	- supports wildcards
+# Miscellanous
+- BuiltWith - https://builtwith.com/
+	- Shows info about libraries and frameworks used to make website
+- Domain Dossier - https://centralops.net/co/
+	- Info about website owner
+	- MX records can be used to find email service
+	- Provides passive service scan
+	- Shows server headers
+- DNSlytics - https://dnslytics.com/reverse-ip
+	- Finds all domains sharing an IP Address
+- SpyOnWeb - https://spyonweb.com/
+- Virus Total - https://www.virustotal.com/
+	- Provides UA code
+	- Shows server headers
+- Reddit - https://reddit.com
+	- Can search for everytime domain has been linked to in a post  
+- Visual Ping - https://visualping.io/
+	- website change monitoring
+- Back Link Watch - http://backlinkwatch.com/index.php
+	- Finds webs pages where link to speciified website has been posted
+- View DNS - https://viewdns.info/
+	- Has IP History Search
+- Shodan - https://shodan.io
+	- internet connected device search
+	- webcam search and viewing
+	- can search by location
+	- can search by port
+	- can search by organization
+- Wayback Machine - https://web.archive.org/
